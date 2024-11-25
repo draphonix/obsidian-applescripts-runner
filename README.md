@@ -1,2 +1,2 @@
 # obsidian-applescripts-runner
-This plugin will create a new Event to the Apple Calendar based a specific Note which has the Done in the heading.
+This plugin will trigger an AppleScript based a specific Note which has the Done in the heading.
