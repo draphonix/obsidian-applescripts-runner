@@ -1,0 +1,10 @@
+{
+    "id": "obsidian-run-applescripts",
+    "name": "AppleScript Runner",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Run AppleScripts from within Obsidian",
+    "author": "Hoang Nguyen Bang",
+    "isDesktopOnly": true,
+    "authorUrl": "https://github.com/hoangnb24"
+} 
